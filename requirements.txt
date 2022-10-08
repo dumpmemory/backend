@@ -13,7 +13,7 @@ autobahn==22.4.2
 Automat==20.2.0
 bcrypt==3.2.2
 billiard==3.6.4.0
-celery==5.2.6
+celery==5.2.7
 certifi==2021.10.8
 cffi==1.15.0
 channels==3.0.4
